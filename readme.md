@@ -7,3 +7,5 @@ Install deps with `poetry install`
 Run with `poetry run python3 ./uptime.py --url $SERVICE_URL`
 
 Also accepts a `--interval` flag but defaults to waiting 50ms between requests.
+
+Stop with CTRL+C or SIGINT.
